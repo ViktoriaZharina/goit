@@ -379,6 +379,7 @@ padding: 32px 0
     font-weight: 400;
     top: 0;
     padding: 40px 32px;
+    height: 100%;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -465,7 +466,6 @@ margin-left: 156px;
 .footer-first-div{
     margin-left: 156px;
     margin-right: 120px;
-    margin-right: 120px;
 }
 
 .footer-logo {
@@ -544,6 +544,6 @@ ul {
     list-style: none;
 }
 
-.margin{
+/* .margin{
     margin-right: 692px;
-}
+} */
